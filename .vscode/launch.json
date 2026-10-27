@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "jwallet_lite",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--no-dds"
+      ]
+    },
+    {
+      "name": "jwallet_lite (Release)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}
